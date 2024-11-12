@@ -1,0 +1,19 @@
+
+Url de mi sitio
+	https://github.com/miRepositorioGit/CRUD.git
+	
+Crear un repositorio
+	echo "# CRUD" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/miRepositorioGit/CRUD.git
+	git push -u origin main
+	
+actualizar un repositorio
+	
+	git add .
+	git commit -m "first commit"
+	git push -u origin main
+
